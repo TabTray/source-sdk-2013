@@ -1,5 +1,7 @@
 "GameInfo"
 {
-  "game"     "modbase"
-  "title"    "          '"
+    "game"          "modbase"
+    "title"         "          '" //because if youre gonna be gouging your eyes out ya might as well be gouging your eyes out chuckling
+    "title2"        "+knuckles" //ditto
+    "supportsvr"    "0"
 }
