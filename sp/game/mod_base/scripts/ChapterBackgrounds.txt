@@ -1,9 +1,0 @@
-"chapters"
-{
-    1    "background00"
-    2    "background00"
-    3    "background00"
-    4    "background00"
-    5    "background00"
-    6    "background00"
-}
